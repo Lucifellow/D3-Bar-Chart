@@ -1,0 +1,31 @@
+.bar{
+    fill: rgb(12, 116, 185)
+}
+
+.color-green{
+    fill:green;
+    font-weight: bold;
+}
+
+.color-blue{
+    fill:rgb(66, 66, 202);
+    font-weight:bold;
+}
+
+#tooltip{
+    position: absolute;
+    text-align: center;
+    padding: 1em;
+    margin-left: 22em;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+svg{
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
